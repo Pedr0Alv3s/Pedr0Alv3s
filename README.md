@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Pedro, and this is a place where I will organize my projects for study.
+## I'm currently studying to become a Computer Engineer and I'm looking to collaborate on small projects to gain more experience with programming languages and develop my skills.
 
 <!--
 **Pedr0Alv3s/Pedr0Alv3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
